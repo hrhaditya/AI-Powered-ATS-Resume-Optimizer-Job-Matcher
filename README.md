@@ -22,3 +22,8 @@ Frontend	React.js, Tailwind CSS, Lovable UI
 Backend	FastAPI, Pydantic, Python
 LLM Engine	Google Gemini Pro API
 Hosting	Vercel (Frontend), Local/Cloud for FastAPI
+
+ Demo
+
+    🔗 https://job-scan-pro.vercel.app/
+    🧪 Try uploading your resume & a job description — get an instant ATS score!

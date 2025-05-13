@@ -17,6 +17,7 @@ This project helps job seekers optimize their resumes by parsing them, matching 
     📤 Deploy-ready full-stack project with CI/CD support
 
 🧰 Tech Stack
+
 Layer	Tools/Frameworks
 Frontend	React.js, Tailwind CSS, Lovable UI
 Backend	FastAPI, Pydantic, Python

@@ -14,6 +14,7 @@ Job seekers often get rejected by automated ATS filters before a human even revi
 ✨ Live Demo
 
 🔗 Try the Live App
+🔗 Live App on Vercel : https://job-scan-pro.vercel.app/
 🧪 Upload your resume (PDF or DOCX) and a job description, and get:
 
     An ATS Match Score
@@ -60,20 +61,7 @@ Backend	FastAPI, Python, Pydantic, Resume Parser
 AI Engine	Google Gemini Pro API (Text-based LLM prompt flow)
 Hosting	Vercel (Frontend), Local/Cloud-hosted FastAPI Server
 DevOps	CI/CD ready, GitHub workflows (optional integration)
-📂 Project Structure
 
-job-scan-pro/
-├── backend/
-│   ├── main.py                # FastAPI app
-│   ├── ats_score_engine.py    # Gemini Pro prompt + analysis logic
-│   └── parser.py              # Resume parsing (PDF/DOCX)
-├── frontend/
-│   ├── src/
-│   │   ├── components/        # Lovable UI-based React components
-│   │   └── pages/             # Upload, Score, and Results views
-├── assets/                    # Icons, visuals
-├── README.md
-└── requirements.txt
 
 📊 Example Output
 
@@ -134,7 +122,3 @@ Job Description:
 
     🧾 Cover letter generation based on JD + resume
 
-📌 Repo
-
-🔗 GitHub – job-scan-pro
-🔗 Live App on Vercel
